@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="flag_Jeju" width="750" height="500" preserveAspectRatio="xMidYMid" version="1.0" viewBox="0 0 750 500" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rect id="rect134" width="750" height="500" fill="#ffffff" stroke-width="1.25"/>
+ <path id="path136" d="m750 0v500h-750z" fill="#0077ff" stroke-width="1.25"/>
+ <g id="g415" stroke-width=".78125">
+  <path id="path138" d="m262.5 162.5c0-55.22656-44.77344-100-100-100-55.22577 0-100 44.77344-100 100 0 55.22579 44.77422 100 100 100 55.22657 0 100-44.77421 100-100z" fill="#ff4a31"/>
+  <path id="path140" d="m76.94532 185.4062c2.15625-27.17187 8.882032-69.29687 51.45235-87.57031 9.26562 96.46094 111.875 36.14844 56.64844-20.53906 22.4539 15.45312 55.57109 42.34375 50.11014 88.34374-88.17109-40.21093-86.86639 78.83595-10.15625 59.35938-24.60936 11.71876-64.45312 26.95313-101.5625-0.78125 78.90625-56.25-25.00782-114.9844-46.49219-38.8125z" fill="#ffffff"/>
+ </g>
+</svg>

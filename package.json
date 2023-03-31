@@ -1,0 +1,8 @@
+{
+  "name": "language-flags",
+  "version": "1.0.0",
+  "description": "svg langauage flags",
+  "main": "index.css",
+  "author": "tpyoung",
+  "license": "ISC"
+}
