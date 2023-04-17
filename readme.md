@@ -279,7 +279,6 @@ Use the class `lf` in addition to what language you want to use.
 || quechua |
 || rakhine |
 || rapa-nui |
-|| rohingya |
 || romagnol |
 || romani |
 || romanian |
@@ -362,6 +361,5 @@ Use the class `lf` in addition to what language you want to use.
 || yola |
 || yonaguni |
 || yoruba |
-|| zaniza-zapotec |
 || zulu |
 || ǃxóõ |
